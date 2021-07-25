@@ -1,0 +1,20 @@
+﻿
+
+aproveitar esse programa para fazer
+> business chamando outro objeto (email, validacao)
+> business chamadno funcao auxiliar (validacao)
+> opção de remover pela tela de consulta
+> opção de alterar/multa/chegada pela tela de consulta
+> validar se existe registro de saída para o mesmo carro no mesmo dia e horario
+
+
+(3º bim)
+> login com bd
+> carregar piloto buscando de outra tabela e carregar no combobox e salvar com chave estrangeira 
+> pensar em alguma tela N pra N
+> user control para carregar lista de forma personalizada
+> salvar imagem em bd
+
+
+
+
